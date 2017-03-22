@@ -38,10 +38,10 @@ If, for whatever reason, you cannot complete this lab whether due to time contra
    - User name: **cortana**
    - Password: **Password.1!!**
    
-**Note:** This is a self-signed certificate and you may be prompted to aknowledge the certificate validation error to proceed. Select "Don't ask me again for conncetions to this computer" and click "Yes" to continue.
+ - **Note:** This is a self-signed certificate and you may be prompted to aknowledge the certificate validation error to proceed. Select "Don't ask me again for conncetions to this computer" and click "Yes" to continue.
 
     ![Screenshot](images/connect_to_the_lab_vm_3.png)
-    
+        
 ## Task 2: Navigate to Machine Learning Studio
 
 1. In a browser, go to [https://studio.azureml.net](https://studio.azureml.net) and log in using the same account you used in the Azure portal to deploy the prerequisites for this workshop.
