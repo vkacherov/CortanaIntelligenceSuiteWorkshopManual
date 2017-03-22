@@ -2,7 +2,7 @@
 
 Duration: 90 mins
 
-Synopsis: In this exercise, attendees will implement a classification experiment. They will load the training data from their local machine into a dataset. Then they will explore the data to identify the primary components they should use for prediction, and use two different algorithms for predicting the classification. They will evaluate the performance of both and algorithms choose the algorithm that performs best. The model selected will be exposed as a web service that is integrated with the sample web app.
+Synopsis: In this exercise, attendees will implement a classification experiment. They will load the training data from their local machine into a dataset. Then they will explore the data to identify the primary components they should use for prediction, and use two different algorithms for predicting the classification. They will evaluate the performance of both algorithms and choose the algorithm that performs best. The model selected will be exposed as a web service that is integrated with the sample web app.
 
 This exercise has 9 tasks:
 
@@ -37,7 +37,10 @@ If, for whatever reason, you cannot complete this lab whether due to time contra
 1. Log in with the following credentials:
    - User name: **cortana**
    - Password: **Password.1!!**
+**Note: **This is a self-signed certificate and you may be prompted to aknowledge the certificate validation error to proceed. Select "Don't ask me again for conncetions to this computer" and click "Yes" to continue.
 
+    ![Screenshot](images/ex02_connect_to_the_lab_vm_3.png)
+    
 ## Task 2: Navigate to Machine Learning Studio
 
 1. In a browser, go to [https://studio.azureml.net](https://studio.azureml.net) and log in using the same account you used in the Azure portal to deploy the prerequisites for this workshop.
