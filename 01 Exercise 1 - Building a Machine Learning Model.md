@@ -37,9 +37,10 @@ If, for whatever reason, you cannot complete this lab whether due to time contra
 1. Log in with the following credentials:
    - User name: **cortana**
    - Password: **Password.1!!**
-**Note: **This is a self-signed certificate and you may be prompted to aknowledge the certificate validation error to proceed. Select "Don't ask me again for conncetions to this computer" and click "Yes" to continue.
+   
+**Note:** This is a self-signed certificate and you may be prompted to aknowledge the certificate validation error to proceed. Select "Don't ask me again for conncetions to this computer" and click "Yes" to continue.
 
-    ![Screenshot](images/ex02_connect_to_the_lab_vm_3.png)
+    ![Screenshot](images/connect_to_the_lab_vm_3.png)
     
 ## Task 2: Navigate to Machine Learning Studio
 
